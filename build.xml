@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<project name="pit-ant-example">
+<project name="pitest-demo">
 
 	<property name="classOutputDir" value="build" />
 
