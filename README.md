@@ -1,9 +1,9 @@
-# pitest ant example
+# PIT (pitest) Demo
 
-Simple example of using http://pitest.org with ant.
+A demo of PIT (1.5.2). To mutation test just run:
 
-To mutation test just run
-
+```
 ant pit
+```
 
-A report will be generated in the pitReports directory
+A report will be generated in the pitReports/ directory.
